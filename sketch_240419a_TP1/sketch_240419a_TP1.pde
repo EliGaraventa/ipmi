@@ -1,3 +1,6 @@
+//Eliana Garaventa
+//Comision 3
+
 PImage imagen;
 void setup(){
 size(800,400);
